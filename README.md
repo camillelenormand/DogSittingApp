@@ -10,4 +10,4 @@ Now, you want to specify the city of the dogsitters and dogs to create a great m
 
 ## Diagram
 
-![alt text](https://github.com/camillelenormand/DogSittingApp/blob/main/public/dogsittingapp.png?raw=true)
+![alt text](https://github.com/camillelenormand/DogSittingApp/blob/main/public/dogsittingappdiagram.png?raw=true)
